@@ -204,3 +204,5 @@ Se crearon índices en las columnas `dna_hash` e `is_mutant` para garantizar bú
 4. **Validación Fail-Fast:**
 Las validaciones de formato (NxN, caracteres válidos) se realizan en el DTO antes de llegar a la capa de servicio, ahorrando ciclos de CPU en peticiones inválidas.
 
+👤 Autor
+Camila Bastian Desarrollo de Software
